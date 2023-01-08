@@ -1,0 +1,36 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.nav-bar{
+    display: flex;
+    justify-content: flex-end;
+    gap: 30px;
+    margin: 5px;
+    padding-right: 5px;
+}
+.c-sharp{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    margin: 5px;
+    background-color: rgb(203, 238, 240);
+}
+.king-div{
+    display: flex;
+    gap: 70px;
+    justify-content: center;
+    margin-top: 50px;
+}
+.first-div{
+    border:2px solid rgb(72, 227, 209);
+    padding: 30px;
+}
+.second-div{
+    border:2px solid rgb(72, 227, 209);
+    padding: 30px;
+}
+.third-div{
+    border:2px solid rgb(72, 227, 209);
+    padding: 30px;
+}
